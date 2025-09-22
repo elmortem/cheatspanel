@@ -1,0 +1,22 @@
+{
+  "name": "com.elmortem.cheatspanel",
+  "displayName": "Cheats Panel",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "Easy cheats panel",
+  "keywords": [
+    "tools",
+    "workflow",
+    "productivity",
+    "prototype",
+	"cheat",
+	"cheats",
+	"panel"
+  ],
+  "category": "Workflow",
+  "dependencies": {},
+  "author": {
+    "name": "Makar Osokin",
+    "url": "https://elmortem.com"
+  }
+}
