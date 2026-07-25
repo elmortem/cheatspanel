@@ -1,0 +1,27 @@
+{
+    "name": "CheatPanel.InputSystem",
+    "rootNamespace": "CheatsPanels",
+    "references": [
+        "CheatPanel",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "CHEATS_ENABLE",
+        "ENABLE_INPUT_SYSTEM",
+        "CHEATS_INPUT_SYSTEM_PACKAGE"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.0.0",
+            "define": "CHEATS_INPUT_SYSTEM_PACKAGE"
+        }
+    ],
+    "noEngineReferences": false
+}

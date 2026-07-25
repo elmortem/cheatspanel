@@ -1,0 +1,10 @@
+{
+    "id": "Task_20260725_153000",
+    "status": "success",
+    "logs": [
+        "scriptCompilationFailed: False\r\nENABLE_LEGACY_INPUT_MANAGER: yes\r\nENABLE_INPUT_SYSTEM: no\r\nAssembly CheatPanel: sourceFiles=6 outputPath=Library/ScriptAssemblies/CheatPanel.dll\r\nLoaded types in CheatsPanels:\r\n  CheatsPanels.CheatsPanel [CheatPanel]\r\n  CheatsPanels.CheatsPanel+CheatEntry [CheatPanel]\r\n  CheatsPanels.CheatsPanelBehaviour [CheatPanel]\r\n  CheatsPanels.CheatsPanelInput [CheatPanel]\r\n  CheatsPanels.ICheatsPanelInput [CheatPanel]\r\n  CheatsPanels.LegacyCheatsPanelInput [CheatPanel]\r\n"
+    ],
+    "return_value": "scriptCompilationFailed: False\r\nENABLE_LEGACY_INPUT_MANAGER: yes\r\nENABLE_INPUT_SYSTEM: no\r\nAssembly CheatPanel: sourceFiles=6 outputPath=Library/ScriptAssemblies/CheatPanel.dll\r\nLoaded types in CheatsPanels:\r\n  CheatsPanels.CheatsPanel [CheatPanel]\r\n  CheatsPanels.CheatsPanel+CheatEntry [CheatPanel]\r\n  CheatsPanels.CheatsPanelBehaviour [CheatPanel]\r\n  CheatsPanels.CheatsPanelInput [CheatPanel]\r\n  CheatsPanels.ICheatsPanelInput [CheatPanel]\r\n  CheatsPanels.LegacyCheatsPanelInput [CheatPanel]\r\n",
+    "compiler_errors": [],
+    "foreign_errors": false
+}
