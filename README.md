@@ -3,7 +3,7 @@
 ## Install package
 
 ```
-https://github.com/elmortem/cheatspanel.git?path=Project/Packages/com.elmortem/cheatspanel
+https://github.com/elmortem/cheatspanel.git?path=Project/Packages/com.elmortem.cheatspanel
 ```
 
 ## License
