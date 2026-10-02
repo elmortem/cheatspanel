@@ -270,6 +270,7 @@ namespace CheatsPanels
 				{
 					//hideFlags = HideFlags.HideInHierarchy
 				};
+				UnityEngine.Object.DontDestroyOnLoad(go);
 
 				_behaviour = go.AddComponent<CheatsPanelBehaviour>();
 			}
